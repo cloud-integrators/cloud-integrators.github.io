@@ -51,7 +51,7 @@ title: Cloud Integrators
 # Website language
 lang: en-US
 # Header Title
-header-title: Connecting Dots
+header-title: Connecting The Dots 
 # Header Tagline
 headter-tagline: Cloud Integrators
 
@@ -82,12 +82,12 @@ banner-link: https://themeforest.net/collections/6069390-sera
 ####################################
 ######  Global Social Links   ######
 ####################################
-youtube: '#'
-pinterest: '#'
-facebook: '#'
-twitter: '#'
-google-plus: '#'
-vimeo: '#'
+# youtube: '#'
+# pinterest: '#'
+# facebook: '#'
+# twitter: '#'
+# google-plus: '#'
+# vimeo: '#'
 
 #########################
 ######   Widgets   ######
@@ -111,7 +111,7 @@ about-widget:
 # Google Map JS api
 # This is my api for this template
 key-api: AIzaSyDbnxVZQannH0GF4gtnnBFPiP9ofm2WqGs
-map-text: Cloud Integrators Google Map
+map-text: Cloud Integrators Pty Ltd.
 map-text-location: Melbourne, Australia
 map-lat: -37.814155
 map-lng: 144.963175
@@ -182,7 +182,7 @@ contact-description: Nulla a tellus at turpis gravida congue non interdum et mal
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Gleesik&trade;
-footer-copyright-url: http://gleesik.ro/
-footer-copyright-year: 2016
+footer-description: 
+footer-copyright-text: Cloud Integrators
+footer-copyright-url: https://www.cloud-integrators.com.au/
+footer-copyright-year: 2018
